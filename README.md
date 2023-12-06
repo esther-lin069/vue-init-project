@@ -1,1 +1,3 @@
 # vue-init-project
+
+init
